@@ -113,7 +113,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/+3SrhYvCpBF80MDll">Mallu Cinemas </a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/elsa_support">Mallu Cinemas </a>」</b>"""
     
 
     ALRT_TXT = """Get out of there quickly !"""
