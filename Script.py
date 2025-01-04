@@ -37,7 +37,7 @@ class script(object):
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/MC_Adminser_bot'>MC Admin</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : ISAGI_x3\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/ISAGI_x3'>ISAGI_x3</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🎭\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/MC_Adminser_bot'>MC Admin</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -65,7 +65,7 @@ BOT WORKING PROPERLY 🔥"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-Bʏ @ISAGI_x3</b>"""
+Bʏ ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🎭</b>"""
         
     
     STATUS_TXT = """<b><u>🗃 ᴅᴀᴛᴀʙᴀsᴇ 1 🗃</u>
@@ -113,7 +113,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/botmaking8671">cinema universe </a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/+3SrhYvCpBF80MDll">Mallu Cinemas </a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
@@ -264,11 +264,11 @@ User - {}"""
  ❏ 𝟷𝟿𝟿₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
  ❏ 𝟹𝟼𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-🆔 ᴜᴘɪ ɪᴅ ➩ <code>jishan@fam</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+🆔 ᴜᴘɪ ɪᴅ ➩ <code>coming 🔜</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🏷️ <a href='https://t.me/jisshu_Premium_proof'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://t.me/MC_Adminser_bot'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
@@ -289,10 +289,10 @@ User - {}"""
 --------------Verify ID--------------
 ➩ /verify_id - Generate a verification ID for group use only
 --------------Set Ads----------------
-➩ /set_ads {ads name}}#{Times}#{photo URL} - <a href="https://t.me/Jisshu_developer/11">Explain</a>
+➩ /set_ads {ads name}}#{Times}#{photo URL} - <a href="https://t.me/MC_Adminser_bot">Explain</a>
 ➩ /del_ads - Delete ads
 -------------Top Trending------------
-➩ /setlist {Mirzapur, Money Heist} - <a href=https://t.me/Jisshu_developer/10>Explain</a>
+➩ /setlist {Mirzapur, Money Heist} - <a href=https://t.me/MC_Adminser_bot>Explain</a>
 ➩ /clearlist - Clear all lists
 </blockquote></b>"""
 
@@ -321,12 +321,12 @@ User - {}"""
 /set_time_2 {{seconds}} Sᴇᴛ ᴛʜᴇ sᴇᴄᴏɴᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 /set_time_3 {{seconds}} Sᴇᴛ ᴛʜᴇ ᴛʜɪʀᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 --------------Verify On Off------------
-/verifyoff {{verify.off code}} - off verification <a href="https://t.me/IM_JISSHU">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
+/verifyoff {{verify.off code}} - off verification <a href="https://t.me/MC_Adminser_bot">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
 /verifyon - on verification 
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/Jisshu_developer/8">Example</a>
+/set_template - set IMDb template <a href="https://t.me/MC_Adminser_bot">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial - set verification tutorial 
 -------------Set Log Channel-----------
@@ -341,9 +341,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/ISAGI_x3">ISAGI_x3</a></blockquote>
+- It is an private one 🕐 
 
-developer : ISAGI_x3
+developer : ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🎭
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
@@ -354,12 +354,12 @@ developer : ISAGI_x3
 /set_time_2 {seconds} Sᴇᴛ ᴛʜᴇ sᴇᴄᴏɴᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 /set_time_3 {seconds} Sᴇᴛ ᴛʜᴇ ᴛʜɪʀᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 --------------Verify On Off------------
-/verifyoff {verify.off code} - off verification <a href="https://t.me/IM_JISSHU">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
+/verifyoff {verify.off code} - off verification <a href="https://t.me/MC_Adminser_bot">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
 /verifyon - on verification 
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/botmaking8671">Example</a>
+/set_template - set IMDb template <a href="https://t.me/MC_Adminser_bot">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial - set verification tutorial 
 -------------Set Log Channel-----------
@@ -370,4 +370,4 @@ developer : ISAGI_x3
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/botmaking8671">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/botmaking8671">ᴀᴅᴍɪɴ</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/MC_Adminser_bot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/MC_Adminser_bot">ᴀᴅᴍɪɴ</a></b>"""
